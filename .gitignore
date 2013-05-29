@@ -2,3 +2,5 @@
 *.swp
 tmp/
 *.pyc
+tests/spotify_appkey.key
+tests/config.py
